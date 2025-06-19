@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ishwarxo
-- 👀 I’m interested in learning web dev and ML
+- 👀 I’m interested in learning web dev and AI/ML
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on multiple projects
 - 📫 How to reach me ishwar.kumar144014@gmail.com
-- 😄 Pronouns: null
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: null
 
 <!---
